@@ -1,0 +1,350 @@
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\appsettings.Development.json
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\appsettings.json
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\ApiCategory.exe
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\ApiCategory.deps.json
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\ApiCategory.runtimeconfig.json
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\ApiCategory.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\ApiCategory.pdb
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Humanizer.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.AssemblyReference.cache
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfoInputs.cache
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfo.cs
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CoreCompileInputs.cache
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cs
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cache
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.ApiCategory.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCategory.props
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCategory.props
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCategory.props
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\scopedcss\bundle\ApiCategory.styles.css
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CopyComplete
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\refint\ApiCategory.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.pdb
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ApiCategory.genruntimeconfig.cache
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\obj\Debug\net6.0\ref\ApiCategory.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\AutoMapper.dll
+D:\Cibertec\Ciclo5\Desarrollo de Servicios Web 1\Clases\Clase12\ApiCategory\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\appsettings.json
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.exe
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.deps.json
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.runtimeconfig.json
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.pdb
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Humanizer.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.ApiCategory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCategory.props
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCategory.props
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCategory.props
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\scopedcss\bundle\ApiCategory.styles.css
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CopyComplete
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\refint\ApiCategory.dll
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.pdb
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Desktop\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ref\ApiCategory.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\appsettings.Development.json
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\appsettings.json
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.exe
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.deps.json
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.runtimeconfig.json
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.pdb
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\AutoMapper.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Humanizer.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.AssemblyReference.cache
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfoInputs.cache
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfo.cs
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CoreCompileInputs.cache
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cs
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cache
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.ApiCategory.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCategory.props
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCategory.props
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCategory.props
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.build.json
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.development.json
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\scopedcss\bundle\ApiCategory.styles.css
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CopyComplete
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.dll
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\refint\ApiCategory.dll
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.pdb
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.genruntimeconfig.cache
+D:\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ref\ApiCategory.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\appsettings.json
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.exe
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.deps.json
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.runtimeconfig.json
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\ApiCategory.pdb
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.AssemblyReference.cache
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfoInputs.cache
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfo.cs
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CoreCompileInputs.cache
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\scopedcss\bundle\ApiCategory.styles.css
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CopyComplete
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\refint\ApiCategory.dll
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.pdb
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ApiCategory.genruntimeconfig.cache
+C:\Users\dayra\OneDrive\Escritorio\CIBERTEC\BrianCallan_CL3\ApiCategory\obj\Debug\net6.0\ref\ApiCategory.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\appsettings.json
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\ApiCategory.exe
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\ApiCategory.deps.json
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\ApiCategory.runtimeconfig.json
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\ApiCategory.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\ApiCategory.pdb
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.AssemblyInfo.cs
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.ApiCategory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCategory.props
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCategory.props
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCategory.props
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\scopedcss\bundle\ApiCategory.styles.css
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.csproj.CopyComplete
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\refint\ApiCategory.dll
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.pdb
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ApiCategory.genruntimeconfig.cache
+C:\Users\ACER\Downloads\CL3_DSW\ApiCategory\obj\Debug\net6.0\ref\ApiCategory.dll

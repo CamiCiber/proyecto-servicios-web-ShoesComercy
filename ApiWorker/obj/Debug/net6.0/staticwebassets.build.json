@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A+L3CRFXhufOa+8iYhjw/DxVeDTENVRMFfzFLcQ2q2s=",
+  "Source": "ApiWorker",
+  "BasePath": "_content/ApiWorker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,137 @@
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.csproj.AssemblyReference.cache
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.AssemblyInfoInputs.cache
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.AssemblyInfo.cs
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.csproj.CoreCompileInputs.cache
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.MvcApplicationPartsAssemblyInfo.cs
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.MvcApplicationPartsAssemblyInfo.cache
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\appsettings.Development.json
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\appsettings.json
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\AppCustomer.exe
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\AppCustomer.deps.json
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\AppCustomer.runtimeconfig.json
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\AppCustomer.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\AppCustomer.pdb
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\AutoMapper.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Humanizer.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTO DSW\CategoryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\staticwebassets\msbuild.AppCustomer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.AppCustomer.props
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppCustomer.props
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppCustomer.props
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\scopedcss\bundle\AppCustomer.styles.css
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.csproj.CopyComplete
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.dll
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\refint\AppCustomer.dll
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.pdb
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\AppCustomer.genruntimeconfig.cache
+D:\PROYECTO DSW\CategoryApp\obj\Debug\net6.0\ref\AppCustomer.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\AppCustomer.exe
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\AppCustomer.deps.json
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\AppCustomer.runtimeconfig.json
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\AppCustomer.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\AppCustomer.pdb
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.csproj.AssemblyReference.cache
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.AssemblyInfoInputs.cache
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.AssemblyInfo.cs
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.csproj.CoreCompileInputs.cache
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\scopedcss\bundle\AppCustomer.styles.css
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.csproj.CopyComplete
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\refint\AppCustomer.dll
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.pdb
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\AppCustomer.genruntimeconfig.cache
+C:\Users\dayra\OneDrive\Escritorio\ProyectoServiciosWeb\CustomerApp\obj\Debug\net6.0\ref\AppCustomer.dll

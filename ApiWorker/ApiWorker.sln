@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiWorker", "ApiWorker.csproj", "{6E71D872-ABE2-42A7-9EFE-C93045E5E4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E71D872-ABE2-42A7-9EFE-C93045E5E4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E71D872-ABE2-42A7-9EFE-C93045E5E4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E71D872-ABE2-42A7-9EFE-C93045E5E4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E71D872-ABE2-42A7-9EFE-C93045E5E4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE81AE96-CEA4-4081-A818-9B155AC09D6B}
+	EndGlobalSection
+EndGlobal
